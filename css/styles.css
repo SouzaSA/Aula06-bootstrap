@@ -1,0 +1,41 @@
+.logo-width {
+  width: 150px;
+}
+
+.w-menu-link {
+  width: 140px;
+}
+
+.img-fixed-height-150 {
+  height: 150px;
+}
+
+.layout {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.bg-footer {
+  background-color: #b82518;
+}
+
+footer a:hover{
+  background-color: #881c12;
+}
+
+.overview-image {
+  height: 250px; 
+  width: 100%; 
+  display: block;
+}
+
+.mr-percent-30 {
+  margin-right: 10%;
+}
+
+.bg-black-opacity-50 {
+  background-color: rgba(0, 0, 0, .5);
+}
+
+.bg-black-opacity-50:hover {
+  background-color: rgba(53, 53, 53, 0.5);
+}
